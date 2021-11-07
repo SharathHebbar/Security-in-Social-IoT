@@ -1,2 +1,4 @@
 # Security in Social IoT
- Security in Social IoT
+- Simple user anonymity
+---Requirements
+---------- pip install cryptography
